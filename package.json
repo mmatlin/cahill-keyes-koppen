@@ -1,0 +1,19 @@
+{
+  "name": "cahill-keyes-koppen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "d3": "^6.7.0",
+    "d3-geo-polygon": "^1.12.1",
+    "d3-geo-projection": "^3.0.0",
+    "ndjson-cli": "^0.3.1",
+    "shapefile": "^0.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate": "sh generate.sh"
+  },
+  "author": "mmatlin",
+  "license": "MIT"
+}
